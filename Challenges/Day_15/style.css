@@ -20,10 +20,10 @@ span {
       color: white;
   }
   50% {
-      color: #f346238e;
+      color: rgb(114, 114, 255);
   }
   100% {
-      color: #F34423;
+      color: blue;
   }
 }
 
