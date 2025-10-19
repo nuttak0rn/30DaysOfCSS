@@ -20,14 +20,14 @@ section {
   font-size: 10em;
   line-height: 220px;
   overflow: hidden;
-  font-family: 'Merriweather', serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   animation: animate 20s linear infinite;
 }
 
 .wrapper {
     height: 100%;
     width: 50%;
-    background-color: #E4538D;
+    background-color: #53cee4;
     overflow: hidden;
     color:#FDE9E3;
     position: absolute;
